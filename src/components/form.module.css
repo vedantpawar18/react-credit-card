@@ -1,0 +1,45 @@
+.form{
+    border: 1px solid red;
+    width: 30%;
+    margin: auto;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 30px;
+   
+}
+
+.card{
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 20px;
+    height: 250px;
+    width: 500px;
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    color: white;
+    padding: 6px;
+}
+
+.img{
+    height: 40px;
+    width: 60px;
+    margin: 20px;
+}
+
+.name{
+    /* border: 1px solid black; */
+    width: 50%;
+}
+
+.date{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin-left: 50%;
+}
+
+.cvv{
+    /* border: 1px solid black; */
+    width: 50%;
+}
